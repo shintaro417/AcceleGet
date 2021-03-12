@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">AcceleGet</string>
     <string name="app_text">倒れると光るよ！</string>
+    <string name="start_text">BataPika!開始</string>
+    <string name="stop_text">BataPika!開始</string>
 </resources>
