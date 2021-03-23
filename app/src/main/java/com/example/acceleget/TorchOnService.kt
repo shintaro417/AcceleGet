@@ -89,6 +89,7 @@ class TorchOnService:Service(),SensorEventListener {
     }
 
     override fun onBind(intent: Intent?): IBinder? {
+        //IBinderに?を付けて、nullを返すようにする。
         return null
     }
 
